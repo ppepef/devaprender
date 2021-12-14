@@ -1,0 +1,8 @@
+D:\PROJETOS\Ocean\devmicrosoft\ControlerMVC\ejogos\e-jogos\e-jogos\obj\Debug\net5.0\e-jogos.csproj.AssemblyReference.cache
+D:\PROJETOS\Ocean\devmicrosoft\ControlerMVC\ejogos\e-jogos\e-jogos\obj\Debug\net5.0\e-jogos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\Ocean\devmicrosoft\ControlerMVC\ejogos\e-jogos\e-jogos\obj\Debug\net5.0\e-jogos.AssemblyInfoInputs.cache
+D:\PROJETOS\Ocean\devmicrosoft\ControlerMVC\ejogos\e-jogos\e-jogos\obj\Debug\net5.0\e-jogos.AssemblyInfo.cs
+D:\PROJETOS\Ocean\devmicrosoft\ControlerMVC\ejogos\e-jogos\e-jogos\obj\Debug\net5.0\e-jogos.csproj.CoreCompileInputs.cache
+D:\PROJETOS\Ocean\devmicrosoft\ControlerMVC\ejogos\e-jogos\e-jogos\obj\Debug\net5.0\e-jogos.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJETOS\Ocean\devmicrosoft\ControlerMVC\ejogos\e-jogos\e-jogos\obj\Debug\net5.0\e-jogos.RazorAssemblyInfo.cache
+D:\PROJETOS\Ocean\devmicrosoft\ControlerMVC\ejogos\e-jogos\e-jogos\obj\Debug\net5.0\e-jogos.RazorAssemblyInfo.cs

@@ -52,6 +52,7 @@ namespace e_jogos.Models
             foreach (string item in linhas)
             {
                 Equipe equipe = new Equipe();
+
                 equipe.IdEquipe = int.Parse(item.Split(';')[0]);
                 equipe.Nome = item.Split(';')[1];
                 equipe.Imagem = item.Split(';')[2];
